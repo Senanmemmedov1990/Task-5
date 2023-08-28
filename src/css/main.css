@@ -1,0 +1,84 @@
+* {
+    margin: O;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head>a {
+    text-decoration: none;
+    float: right;
+    margin-right: 6%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+    color: white;
+}
+
+img {
+    width: 200px;
+    margin-left: 80px;
+}
+
+nav {
+    background-image: url(../image/header-bg.jpg);
+    width: 100%;
+    height: 740px;
+    background-repeat: no-repeat;
+    background-position-y: -150px;
+    text-align: center;
+    padding: 150px;
+}
+
+nav>h3 {
+    font-size: 40px;
+    color: white;
+}
+
+nav>h1 {
+    font-size: 4.5rem;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav>button {
+    color: white;
+    font-size: 20px;
+    padding: 25px 60px;
+    border-radius: 10px;
+    background-color: #FFC800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+
+.tittle {
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+}
+
+
+.Services {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 75px auto;
+    text-align: center;
+
+}
+.img{
+    width: 100%;
+    height: 1000px;
+    background-color: #FFC800;
+    text-align: center;
+}
+.image{
+    width: 80%;
+    justify-content: center;
+    
+    
+}
